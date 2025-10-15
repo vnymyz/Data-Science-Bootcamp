@@ -1,0 +1,20 @@
+jadi disini kita belajar tentang decision tree.
+
+dia itu struktur pohon untuk melakukan suatu decision kayak 
+if else kalau misal ya berarti kesini kalau no kesini.
+
+decision tree itu masuknya ke supervised learning dan dia itu buat 
+problem solving secara regression dan classification.
+
+decision tree kalau misal mau milih atribut itu ada caranya, pertama entropi,
+kedua information gain, 3 baru gini index.
+
+kalau regression dengan angka kontinu atau data yang bersifat angka kayak harga rumah, 
+area rumah intinya bersifat angka, sedangkan kalau classification dia itu lebih ke tulisan kayak iya atau tidak,
+contoh nya apa orangnya selamat ? enggak atau ya. 
+
+ya pokoknya regression itu data yang udah pasti isinya angka semua, 0 atau 1. atau harga rumah 1000000 gtu misal.
+kalau classification cuman huruf aja kayak iya atau tidak, yes or no gtu.
+
+decision ada root node, internal node mirip kek root cuman dia lanjutannya dari root utama, 
+sama ada leaf untuk hasil akhirnya
